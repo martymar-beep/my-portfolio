@@ -92,8 +92,14 @@ h2 {
 
 .about-me {
   display: flex;
+  justify-content: center;
   align-items: center;
+  gap: 20px;
 }
+
+/* #about-me {
+   margin: auto;
+} */
 
 #about-me h1 {
   font-size: 65px;
